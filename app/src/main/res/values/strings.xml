@@ -5,6 +5,4 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="showme">Show me</string>
     <string name="detail">Detailed explanation on how this should work</string>
-    <string name="title_sampleitem_list">SampleItems</string>
-    <string name="title_sampleitem_detail">SampleItem Detail</string>
 </resources>
