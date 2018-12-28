@@ -6,4 +6,12 @@
         <attr name="waveStrokeWidth" format="dimension" />
         <attr name="waveGap" format="dimension" />
     </declare-styleable>
+    <declare-styleable name="DragLayout">
+        <attr name="dl_bottomDragVisibleHeight" format="dimension" />
+        <attr name="dl_bototmExtraIndicatorHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CopyDragLayout">
+        <attr name="bottomDragVisibleHeight" format="dimension" />
+        <attr name="bototmExtraIndicatorHeight" format="dimension" />
+    </declare-styleable>
 </resources>
