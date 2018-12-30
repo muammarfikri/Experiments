@@ -7,4 +7,5 @@
     <string name="detail">Detailed explanation on how this should work</string>
     <string name="title_sampleitem_list">SampleItems</string>
     <string name="title_sampleitem_detail">SampleItem Detail</string>
+    <string name="submit">submit</string>
 </resources>
