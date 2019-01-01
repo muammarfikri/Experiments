@@ -25,10 +25,6 @@ class MainActivity : AppCompatActivity() {
                 R.drawable.spider)).generate {
             color1 = it!!.dominantSwatch!!
             collapser.contentScrim = ColorDrawable(color1.titleTextColor)
-            val drawable = ColorDrawable(color1.titleTextColor)
-            drawable.alpha = 255
-            addMovie.background = drawable
-            addMovie.alpha = 1f
         }
         appbar.addOnOffsetChangedListener(AppBarLayout.OnOffsetChangedListener { appBarLayout, verticalOffset ->
 //            val range = appBarLayout.totalScrollRange - iconIV.top
