@@ -166,5 +166,5 @@
             android:text="Add Movie"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:id="@+id/addMovie" android:layout_gravity="bottom"
-            android:padding="0dp" android:background="@color/graphColor" android:textColor="@android:color/white"/>
+            android:padding="0dp" android:background="@color/grid" android:textColor="@android:color/white"/>
 </FrameLayout>
