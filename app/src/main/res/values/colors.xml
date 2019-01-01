@@ -6,7 +6,8 @@
     <color name="graphColor">#117dba</color>
     <color name="dark">#101018</color>
     <color name="grey">#151721</color>
-    <color name="grid">#2c2f3d</color>
+    <color name="grid">#5d5d5d</color>
+    <color name="disabled">#FFD5D6D6</color>
     <color name="newValue">#ba008577</color>
 
 </resources>
